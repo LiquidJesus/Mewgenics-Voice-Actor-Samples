@@ -1,149 +1,180 @@
-Carla
-Lisa Kuras
-Elicia Roy
-Kaitlyn Lindquist
-Audrina Scobie-Christensen
-Selena Scobie
-Alluux
-Lauren Bleszinski
-Giwi
-Tikara the Mew
-Cupquake
-Sushimew
-Peachy
-Acacia
-Chelsea Rebecca
-Emily Gordon
-Felicia
-Sydney Miles
-Skye Manley
-Crystal
-Peach
-Hila
-Kris Kling
-Barbara Laliberte
-Margeurite Perrin
-Chris Chan Sonichu Prime
-Dani Bowman
-Barbara Crampton (human)
-Barbara Crampton (cat like)
-Lily Pichu
-Nicole Barille
-Stephanie Sterling
-Anisa
-Mini
-Jonathan Holmes (impersonating his mother)
-Ali Glaiel
-Isabella Scobie
-Brittney V
-Brandi Corbett
-Gloria Howell
-Shannon Shaw
-Sheep Xing (Josie)
-Kezia Burrows
-Emiru
-Zoe Thorogood
-Jon
-Eryck Lindquist
-Joey Kuras
-Ash
-Viggo
-Cody Glaiel
-Cody Glaiel - metal
-Quentin Glaiel
-Jeff Bandelin
-Ricky Berwick
-Wubby
-Steven Williams
-Clifford Bleszinski
-Sony Shock
-Arin
-Tyler Glaiel
-Tay Zonday
-vsauce
-Ross Donovan
-Vinny Vinesauce cat
-Vinny Vinesauce human cat
-Markiplier
-Chills
-Taylor Hall (noble)
-Pelo
-Rivers Cuomo
-Logic
-Yoav
-Derrick Acosta
-Shawn Chatfield - Mega64
-Rocco Botte - Mega64
-David Harbour
-hbomberguy
-Ethan
-Spencer Kling
-David ROCK Nelson
-Michael Glaiel
-Mister MV
-Geno Samuel
-Adam Johnston (YMS)
-Carl Edge
-Damian Abraham
-Cody (Shannon and the Clams)
-David Firth
-Dusty
-Froggy Fresh
-Gavin Howell
-Eli
-Florian Himsl
-Greg Sestero
-Stinky Blue Rat
-Liquid Chris
-Sneegsnag
-Josh Tomar (cat)
-Josh Tomar (human)
-SwaggerSouls
-Sam (Living Tomb Stones)
-Tom Cardy
-Mark DeCarlo
-The Professor
-Jack Packard (smeegle cat)
-Jack Packard (hunky cat)
-ragman
-Zach Hadel
-Taylor Hall
-maxmoefoe (cat)
-maxmoefoe (funny)
-idubbbz
-Andrew Bowser (Onyx The Fortuitous)
-Rich Evans (human)
-Rich Evans (cat)
-Dan Gheesling
-Tonetta
-Lloyd Kaufman
-Daxflame
-Nick Nightmind
-Russ Frushtick
-Meat Canyon
-Douglas Philippa
-Jonathan Holmes
-Jonathan Holmes (old man)
-Jonathan Holmes (satchmo)
-The-Vinh Truong
-Bobcat Goldthwait
-Nik (Serbian cat - LeatherIceCream)
-Jay Bauman
-Matan Evan
-Alex Hicks
-Mike Stoklasa
-Corpse Husband
-Will Stamper
-Northern Lion
-Josh Robert Thompson (George Lucas)
-Justin Whang
-Justin Whang ver 2
-Jamishio
-Burt Bronx
-Greg Sestero
-MoistCr1tikal
-Jerma
-Juan Moore
-Gene Ween
-Will Stamper - reversed
-Rodney Roy
+---------------------------------------------------------------------------------------------------
+
+Yes I know, the counting is weird.                                                  
+This is due to the source code not having all the names of the some voice actors in-game.          
+* This is most likely due to some VA's being from the game team and not Cameos *           
+                                                                                    
+Note: The Female 3-59 And Male 1-112 Tags are the orignal file names that the game uses.   
+
+---------------------------------------------------------------------------------------------------
+
+
+
+female3 // Carla
+female4 // Lisa Kuras
+female5 // Elicia Roy
+female6 // Kaitlyn Lindquist
+female7 // Audrina Scobie-Christensen
+female8 // Audrina Scobie-Christensen
+female9 // Selena Scobie
+female10 // Selena Scobie
+female11 // Alluux
+female12 // Lauren Bleszinski
+female13 // Giwi
+female14 // Tikara the Mew
+female15 // Cupquake
+female16 // Sushimew
+female17 // Peachy
+female18 // Acacia
+female19 // Chelsea Rebecca
+female20 // Chelsea Rebecca
+female21 // Emily Gordon
+female22 // Felicia
+female23 // Sydney Miles
+female24 // Sydney Miles
+female25 // Sydney Miles
+female26 // Sydney Miles
+female27 // Sydney Miles
+female28 // Skye Manley
+female29 // Crystal
+female30 // Peach
+female31 // Hila
+female32 // Kris Kling
+female33 // Barbara Laliberte
+female34 // Margeurite Perrin
+female35 // Chris Chan Sonichu Prime
+female36 // Dani Bowman
+female37 // Barbara Crampton (human)
+female38 // Barbara Crampton (cat like)
+female39 // Lily Pichu
+female40 // Nicole Barille
+female41 // Stephanie Sterling
+female42 // Anisa
+female43 // Mini
+female44 // Jonathan Holmes (impersonating his mother)
+female45 // Ali Glaiel
+female46 // Ali Glaiel
+female47 // Isabella Scobie
+female48 // Brittney V
+female49 // Brittney V
+female50 // Brandi Corbett
+female51 // Brandi Corbett
+female52 // Gloria Howell
+female53 // Shannon Shaw
+female54 // Shannon Shaw
+female55 // Sheep Xing (Josie)
+female56 // Kezia Burrows
+female57 // Kezia Burrows
+female58 // Emiru
+female59 // Zoe Thorogood
+male1 // Jon
+male4 // Eryck Lindquist
+male5 // Joey Kuras
+male6 // Ash
+male7 // Viggo
+male8 // Cody Glaiel
+male9 // Cody Glaiel - metal
+male10 // Quentin Glaiel
+male11 // Quentin Glaiel
+male12 // Jeff Bandelin
+male13 // Ricky Berwick
+male14 // Wubby
+male15 // Steven Williams
+male16 // Clifford Bleszinski
+male17 // Sony Shock
+male18 // Arin
+male19 // Arin
+male20 // Arin
+male21 // Tyler Glaiel
+male22 // Tay Zonday
+male23 // vsauce
+male24 // vsauce
+male25 // Ross Donovan
+male26 // Vinny Vinesauce cat
+male27 // Vinny Vinesauce human cat
+male28 // Markiplier
+male29 // Chills
+male30 // Taylor Hall (noble)
+male31 // Pelo
+male32 // Rivers Cuomo
+male33 // Logic
+male34 // Yoav
+male35 // Derrick Acosta
+male36 // Shawn Chatfield - Mega64
+male37 // Rocco Botte - Mega64
+male38 // David Harbour
+male39 // hbomberguy
+male40 // Ethan
+male41 // Spencer Kling
+male42 // David ROCK Nelson
+male43 // Michael Glaiel
+male44 // Mister MV
+male45 // Geno Samuel
+male46 // Adam Johnston (YMS)
+male47 // Adam Johnston (YMS)
+male48 // Carl Edge
+male49 // Damian Abraham
+male50 // Cody (Shannon and the Clams)
+male51 // David Firth
+male52 // Dusty
+male53 // Froggy Fresh
+male54 // Gavin Howell
+male55 // Eli
+male56 // Florian Himsl
+male57 // Greg Sestero
+male58 // Stinky Blue Rat
+male59 // Liquid Chris
+male60 // Sneegsnag
+male61 // Josh Tomar (cat)
+male62 // Josh Tomar (human)
+male63 // SwaggerSouls
+male64 // Sam (Living Tomb Stones)
+male65 // Tom Cardy
+male66 // Mark DeCarlo
+male67 // The Professor
+male68 // Jack Packard (smeegle cat)
+male69 // Jack Packard (hunky cat)
+male70 // ragman
+male71 // Zach Hadel
+male72 // Taylor Hall
+male73 // maxmoefoe (cat)
+male74 // maxmoefoe (funny)
+male75 // idubbbz
+male76 // Andrew Bowser (Onyx The Fortuitous)
+male77 // Rich Evans (human)
+male78 // Rich Evans (cat)
+male79 // Dan Gheesling
+male80 // Tonetta
+male81 // Lloyd Kaufman
+male82 // Daxflame
+male83 // Nick Nightmind
+male84 // Russ Frushtick
+male85 // Meat Canyon
+male86 // Douglas Philippa
+male87 // Douglas Philippa
+male88 // Jonathan Holmes
+male89 // Jonathan Holmes (old man)
+male90 // Jonathan Holmes (satchmo)
+male91 // The-Vinh Truong
+male92 // Bobcat Goldthwait
+male93 // Nik (Serbian cat - LeatherIceCream)
+male94 // Jay Bauman
+male95 // Matan Evan
+male96 // Alex Hicks
+male97 // Mike Stoklasa
+male98 // Corpse Husband
+male99 // Will Stamper
+male100 // Northern Lion
+male101 // Josh Robert Thompson (George Lucas)
+male102 // Justin Whang
+male103 // Justin Whang ver 2
+male105 // Jamishio
+male106 // Burt Bronx
+male107 // Greg Sestero
+male108 // MoistCr1tikal
+male109 // Jerma
+male110 // Juan Moore
+male111 // Gene Ween
+male112 // Will Stamper - reversed
+male113 // Rodney Roy
+male114 // Rodney Roy
