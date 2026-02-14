@@ -1,6 +1,5 @@
 # Cat Voice Line Samples from Mewgenics
-
-> ***This repository contains all cat voice line samples extracted from the game (Mewgenics)***
+***This repository contains all cat voice line samples extracted from the game (Mewgenics)***
 
 > [!NOTE]
 > VA Names properly assigned to the all folders
